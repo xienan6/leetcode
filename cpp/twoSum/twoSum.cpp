@@ -1,5 +1,5 @@
 // Source : https://oj.leetcode.com/problems/two-sum/
-// Author : Nn
+// Author : Nan
 // Date   : 2018-12-04
 
 /*
