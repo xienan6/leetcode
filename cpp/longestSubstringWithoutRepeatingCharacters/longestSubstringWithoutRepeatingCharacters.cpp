@@ -1,6 +1,8 @@
 // Source : https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 // Author : Nan
 // Date   : 2018-12-04
+// 987 / 987 test cases passed.
+// Runtime: 20 ms
 
 /*
 * We can use a hashmap to check if a character is already in the substring.

@@ -1,6 +1,8 @@
 // Source : https://leetcode.com/problems/string-to-integer-atoi/description/
 // Author : Nan
 // Date   : 2018-12-06
+// 1079 / 1079 test cases passed.
+//Runtime: 24 ms
 
 /*
 * simulate 

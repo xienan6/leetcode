@@ -1,3 +1,1 @@
-See in code.
-
-Time complexity O(n), Space complexity O(n)
+See in code. Mirror problem. https://leetcode.com/problems/roman-to-integer/description/

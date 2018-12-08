@@ -1,6 +1,8 @@
 // Source : https://leetcode.com/problems/longest-palindromic-substring/description/
 // Author : Nan
 // Date   : 2018-12-07
+// 103 / 103 test cases passed.
+// Runtime: 4 ms
 
 /*
 * Brute force use O(n^3) time complexity.

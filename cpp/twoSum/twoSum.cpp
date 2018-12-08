@@ -1,6 +1,8 @@
 // Source : https://oj.leetcode.com/problems/two-sum/
 // Author : Nan
 // Date   : 2018-12-04
+// 29 / 29 test cases passed.
+// Runtime: 4 ms
 
 /*
 * The easy solution is use a O(n^2) run-time complexity method. However,
@@ -14,7 +16,7 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        map<int, int> mymap;
+        unordered_map<int, int> mymap;
         vector<int> result;
         for (int i = 0; i < nums.size(); i++) {
             if (mymap.find(target - nums[i]) == mymap.end()) {

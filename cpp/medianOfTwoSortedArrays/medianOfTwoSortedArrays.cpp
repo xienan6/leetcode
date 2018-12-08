@@ -1,6 +1,8 @@
 // Source : https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 // Author : Nan
 // Date   : 2018-12-06
+// 2084 / 2084 test cases passed.
+// Runtime: 52 ms
 
 /*
 * In a sorted n array and a sorted m array, their median is (((m + n + 1) / 2) + ((m + n + 2) / 2)) / 2.0. 

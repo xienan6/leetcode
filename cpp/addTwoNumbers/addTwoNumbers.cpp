@@ -1,6 +1,8 @@
 // Source : https://oj.leetcode.com/problems/two-sum/
 // Author : Nan
 // Date   : 2018-12-05
+// 1563 / 1563 test cases passed.
+// Runtime: 36 ms
 
 /*
 * Normal addition is achieved by two linked lists from low postion 

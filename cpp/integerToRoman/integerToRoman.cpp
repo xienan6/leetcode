@@ -1,11 +1,11 @@
 // Source : https://leetcode.com/problems/integer-to-roman/description/
 // Author : Nan
 // Date   : 2018-12-07
+// 3999 / 3999 test cases passed.
+// Runtime: 76 ms
 
 /*
-* See in code.
-*
-* Time complexity O(n), Space complexity O(n)
+* See in code. Mirror problem. https://leetcode.com/problems/roman-to-integer/description/
 */
 
 class Solution {
