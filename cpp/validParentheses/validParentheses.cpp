@@ -1,6 +1,8 @@
 // Source : https://leetcode.com/problems/valid-parentheses/description/
 // Author : Nan
 // Date   : 2018-12-11
+// 76 / 76 test cases passed.
+// Runtime: 0 ms
 
 
 /*

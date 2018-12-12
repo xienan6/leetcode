@@ -1,4 +1,4 @@
-// Source : https://leetcode.com/submissions/detail/186751966/
+// Source : https://leetcode.com/problems/3sum
 // Author : Nan
 // Date   : 2018-12-09
 // 313 / 313 test cases passed.
