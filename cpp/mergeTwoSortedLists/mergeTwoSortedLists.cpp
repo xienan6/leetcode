@@ -1,4 +1,4 @@
-// Source : https://leetcode.com/submissions/detail/186751966/
+// Source : https://leetcode.com/problems/merge-two-sorted-lists
 // Author : Nan
 // Date   : 2018-12-12
 // 208 / 208 test cases passed.
