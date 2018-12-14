@@ -1,1 +1,1 @@
-Use there hash in [Valid Sudoku](https://leetcode.com/problems/valid-sudoku). Then Retrospective method or dfs.
+Use three hash in Valid Sudoku to check a number if it is in 3x3 box, correspongding row and correspongding column. Then retrospective method or dfs.
