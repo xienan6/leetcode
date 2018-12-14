@@ -23,3 +23,5 @@ LeetCode
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validParentheses/validParentheses.cpp)|Easy|  
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/mergeTwoSortedLists/mergeTwoSortedLists.cpp)|Easy|  
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/generateParentheses/generateParentheses.cpp)|Medium|  
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validSudoku/validSudoku.cpp)|Medium|  
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sudokuSolver/sudokuSolver.cpp)|Hard|  

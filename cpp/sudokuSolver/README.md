@@ -1,0 +1,1 @@
+Use there hash in [Valid Sudoku](https://leetcode.com/problems/valid-sudoku). Then Retrospective method or dfs.
