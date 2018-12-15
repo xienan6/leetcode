@@ -19,9 +19,11 @@ LeetCode
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/containerWithMostWater/containerWithMostWater.cpp)|Medium|  
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/integerToRoman/integerToRoman.cpp)|Medium|  
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/romanToInteger/romanToInteger.cpp)|Easy|  
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/longestCommonPrefix/longestCommonPrefix.cpp)|Easy|  
 |15|[3Sum](https://leetcode.com/problems/3sum/description/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/3Sum/3Sum.cpp)|Medium|  
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validParentheses/validParentheses.cpp)|Easy|  
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/mergeTwoSortedLists/mergeTwoSortedLists.cpp)|Easy|  
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/generateParentheses/generateParentheses.cpp)|Medium|  
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)| [C++,priorityQueue](https://github.com/xienan6/leetcode/tree/master/cpp/mergeKSortedLists/mergeKSortedLists_priorityQueue.cpp) [C++,mergeWithDivideAndConquer](https://github.com/xienan6/leetcode/tree/master/cpp/mergeKSortedLists/mergeKSortedLists_mergeWithDivideAndConquer.cpp)|Hard|  
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validSudoku/validSudoku.cpp)|Medium|  
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sudokuSolver/sudokuSolver.cpp)|Hard|  
