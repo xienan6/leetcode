@@ -10,7 +10,7 @@
 * you can find all answer in O(n^2) time.
 * Notice that nSum questions only need O(n-1) Time complexity.
 *
-* Time complexity O(n^2), Space complexity O(n)
+* Time complexity O(n^2), Space complexity O(1)
 */
 
 class Solution {
