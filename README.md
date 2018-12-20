@@ -30,8 +30,10 @@ LeetCode
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/generateParentheses/generateParentheses.cpp)|Medium|  
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)| [C++ heap](https://github.com/xienan6/leetcode/tree/master/cpp/mergeKSortedLists/mergeKSortedLists_priorityQueue.cpp)/[C++ divide](https://github.com/xienan6/leetcode/tree/master/cpp/mergeKSortedLists/mergeKSortedLists_mergeWithDivideAndConquer.cpp)|Hard|  
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/swapNodesInPairs/swapNodesInPairs.cpp)|Medium|  
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseNodesInKGroup/reverseNodesInKGroup.cpp)|Medium|  
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/removeElement/removeElement.cpp)|Easy|  
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/implementStrstr/implementStrstr.cpp)|Easy|  
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validSudoku/validSudoku.cpp)|Medium|  
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sudokuSolver/sudokuSolver.cpp)|Hard|  
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/jumpGameII/jumpGameII.cpp)|Hard|  
+|46|[Permutations](https://leetcode.com/problems/permutations)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/permutations/permutations.cpp)|Medium|  
