@@ -1,0 +1,2 @@
+For example, for set 1 2 3 7 6 5 2 1 we first look for the first non-reverse element, here is 3, then look for the first element greater than 3 from the back, here is 5, exchange, get 5 7 6 3 2 1 sub-arrangement, then reverse, you can get the next arrangement. If the first non-reverse element is not found, then the permutation is already the largest permutation.  
+Time complexity O(n), Space complexity O(1)
