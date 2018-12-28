@@ -36,6 +36,7 @@ LeetCode
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/implementStrstr/implementStrstr.cpp)|Easy|  
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/divideTwoIntegers/divideTwoIntegers.cpp)|Medium|  
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/nextPermutation/nextPermutation.cpp)|Medium|  
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/longestValidParentheses/longestValidParentheses.cpp)|Hard|  
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validSudoku/validSudoku.cpp)|Medium|  
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sudokuSolver/sudokuSolver.cpp)|Hard|  
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/jumpGameII/jumpGameII.cpp)|Hard|  
@@ -43,3 +44,4 @@ LeetCode
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/groupAnagrams/groupAnagrams.cpp)|Medium|  
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/mergeIntervals/mergeIntervals.cpp)|Medium|  
 |57|[Insert Intervals](https://leetcode.com/problems/insert-interval/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/insertIntervals/insertIntervals.cpp)|Medium|  
+|65|[Valid Number](https://leetcode.com/problems/valid-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validNumber/validNumber.cpp)|Hard|  
