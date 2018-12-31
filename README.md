@@ -39,6 +39,7 @@ LeetCode
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/longestValidParentheses/longestValidParentheses.cpp)|Hard|  
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/searchInRotatedSortedArray/searchInRotatedSortedArray.cpp)|Medium|  
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/findFirstAndLastPositionOfElementInSortedArray/findFirstAndLastPositionOfElementInSortedArray.cpp)|Medium|  
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/searchInsertPosition/searchInsertPosition.cpp)|Easy|  
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validSudoku/validSudoku.cpp)|Medium|  
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sudokuSolver/sudokuSolver.cpp)|Hard|  
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/jumpGameII/jumpGameII.cpp)|Hard|  
@@ -49,3 +50,4 @@ LeetCode
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validNumber/validNumber.cpp)|Hard|  
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/addBinary/addBinary.cpp)|Easy|  
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sqrtx/sqrtx.cpp)|Easy|  
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/climbingStairs/climbingStairs.cpp)|Easy|  
