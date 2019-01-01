@@ -42,6 +42,7 @@ LeetCode
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/searchInsertPosition/searchInsertPosition.cpp)|Easy|  
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validSudoku/validSudoku.cpp)|Medium|  
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sudokuSolver/sudokuSolver.cpp)|Hard|  
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/countAndSay/countAndSay.cpp)|Easy|  
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/jumpGameII/jumpGameII.cpp)|Hard|  
 |46|[Permutations](https://leetcode.com/problems/permutations)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/permutations/permutations.cpp)|Medium|  
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/groupAnagrams/groupAnagrams.cpp)|Medium|  
@@ -51,3 +52,4 @@ LeetCode
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/addBinary/addBinary.cpp)|Easy|  
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sqrtx/sqrtx.cpp)|Easy|  
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/climbingStairs/climbingStairs.cpp)|Easy|  
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/setMatrixZeroes/setMatrixZeroes.cpp)|Medium|  
