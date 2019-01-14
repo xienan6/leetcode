@@ -47,6 +47,7 @@ LeetCode
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/combinationSumII/combinationSumII.cpp)|Medium|  
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/firstMissingPositive/firstMissingPositive.cpp)|Hard|  
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/trappingRainWater/trappingRainWater.cpp)|Hard|  
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/multiplyStrings/multiplyStrings.cpp)|Medium|  
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/jumpGameII/jumpGameII.cpp)|Hard|  
 |46|[Permutations](https://leetcode.com/problems/permutations)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/permutations/permutations.cpp)|Medium|  
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/groupAnagrams/groupAnagrams.cpp)|Medium|  
@@ -61,3 +62,4 @@ LeetCode
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/decodeWays/decodeWays.cpp)|Medium|  
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validateBinarySearchTree/validateBinarySearchTree.cpp)|Medium|  
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.cpp)|Medium|  
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validPalindrome/validPalindrome.cpp)|Easy|  
