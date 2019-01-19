@@ -54,7 +54,8 @@ LeetCode
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/permutationsII/permutationsII.cpp)|Medium|  
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/rotateImage/rotateImage.cpp)|Medium|  
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/groupAnagrams/groupAnagrams.cpp)|Medium|  
-|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp//powx-n//powx-n.cpp)|Medium|  
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/powx-n/powx-n.cpp)|Medium|  
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/nQueens/nQueens.cpp)|Hard|  
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/mergeIntervals/mergeIntervals.cpp)|Medium|  
 |57|[Insert Intervals](https://leetcode.com/problems/insert-interval/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/insertIntervals/insertIntervals.cpp)|Medium|  
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validNumber/validNumber.cpp)|Hard|  
