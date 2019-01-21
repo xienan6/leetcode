@@ -1,7 +1,7 @@
-// Source : https://leetcode.com/problems/n-queens/
+// Source : https://leetcode.com/problems/n-queens-ii/
 // Author : Nan
-// Date   : 2019-01-19
-// 9 / 9 test cases passed.
+// Date   : 2019-01-21
+// 304 / 304 test cases passed.
 // Runtime: 24 ms
 
 /*
@@ -12,8 +12,8 @@
 
 class Solution {
 public:
-    vector<vector<string>> solveNQueens(int n) {
-        vector<vector<string>> result;
+    int totalNQueens(int n) {
+        int result = 0;
         vector<string> r;
         string s = "";
         for (int i = 0; i < n; i++) s += '.';
@@ -23,10 +23,10 @@ public:
         }
         return result;
     }
-    void queen(vector<vector<string>> &result, vector<string> r, int x, int y, int n) {
+    void queen(int  &result, vector<string> r, int x, int y, int n) {
         r[x][y] = 'Q';
         if (x == n - 1) {
-            result.push_back(r);
+            result += 1;
             return;
         }
         for (int j = 0; j < n; j++) {
