@@ -59,8 +59,10 @@ LeetCode
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/nQueensII/nQueensII.cpp)|Hard|  
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumSubarray/maximumSubarray.cpp)|Easy|  
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/spiralMatrix/spiralMatrix.cpp)|Medium|  
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/jumpGame/jumpGame.cpp)|Medium|  
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/mergeIntervals/mergeIntervals.cpp)|Medium|  
 |57|[Insert Intervals](https://leetcode.com/problems/insert-interval/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/insertIntervals/insertIntervals.cpp)|Medium|  
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/lengthOfLastWord/lengthOfLastWord.cpp)|Easy|  
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validNumber/validNumber.cpp)|Hard|  
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/addBinary/addBinary.cpp)|Easy|  
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sqrtx/sqrtx.cpp)|Easy|  
