@@ -1,0 +1,2 @@
+If the first number is constant, there are (n-1)! combinations. If the first number and the second number are constant, there are (n-2)! combinations. And so on use the remainder and you can get the anwser.    
+Time complexity O(n), Space complexity O(1)

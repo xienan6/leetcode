@@ -7,7 +7,7 @@
 /*
 * Use four boundaries guarantee output.  
 * 
-* Time complexity O(n^n), Space complexity O(n^n)
+* Time complexity O(n^2), Space complexity O(n^2)
 */
 
 class Solution {
