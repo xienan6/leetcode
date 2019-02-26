@@ -65,6 +65,8 @@ LeetCode
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/lengthOfLastWord/lengthOfLastWord.cpp)|Easy|  
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/spiralMatrixII/spiralMatrixII.cpp)|Medium|  
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/permutationSequence/permutationSequence.cpp)|Medium|  
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/rotateList/rotateList.cpp)|Medium|  
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/uniquePaths/uniquePaths.cpp)|Medium|  
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validNumber/validNumber.cpp)|Hard|  
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/addBinary/addBinary.cpp)|Easy|  
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sqrtx/sqrtx.cpp)|Easy|  
