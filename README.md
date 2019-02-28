@@ -68,6 +68,7 @@ LeetCode
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/rotateList/rotateList.cpp)|Medium|  
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/uniquePaths/uniquePaths.cpp)|Medium|  
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/uniquePathsII/uniquePathsII.cpp)|Medium|  
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/minimumPathSum/minimumPathSum.cpp)|Medium|  
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validNumber/validNumber.cpp)|Hard|  
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/addBinary/addBinary.cpp)|Easy|  
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sqrtx/sqrtx.cpp)|Easy|  
