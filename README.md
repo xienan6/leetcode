@@ -72,6 +72,7 @@ LeetCode
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validNumber/validNumber.cpp)|Hard|  
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/plusOne/plusOne.cpp)|Easy|  
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/addBinary/addBinary.cpp)|Easy|  
+|68|[Text Justification](https://leetcode.com/problems/text-justification/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/textJustification/textJustification.cpp)|Hard|  
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sqrtx/sqrtx.cpp)|Easy|  
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/climbingStairs/climbingStairs.cpp)|Easy|  
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/setMatrixZeroes/setMatrixZeroes.cpp)|Medium|  
