@@ -75,6 +75,7 @@ LeetCode
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/textJustification/textJustification.cpp)|Hard|  
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sqrtx/sqrtx.cpp)|Easy|  
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/climbingStairs/climbingStairs.cpp)|Easy|  
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/simplifyPath/simplifyPath.cpp)|Medium|  
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/setMatrixZeroes/setMatrixZeroes.cpp)|Medium|  
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/mergeSortedArray/mergeSortedArray.cpp)|Easy|  
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/decodeWays/decodeWays.cpp)|Medium|  
