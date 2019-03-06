@@ -6,7 +6,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/twoSum/twoSum.cpp)|<font color=#5CB85C >Easy</font>|  
+|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/twoSum/twoSum.cpp)|<font color=gray >Easy</font>|  
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/addTwoNumbers/addTwoNumbers.cpp)|<font color=#F0AD4E >Medium</font>|  
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp)|<font color=#F0AD4E >Medium</font>|  
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp)|<font color=#D9534F >Hard</font>|  
