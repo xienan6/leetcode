@@ -1,0 +1,2 @@
+Use two hashmap. Travel all the words combinations to maintain a window. There are wordLength times travel. One left side of the window, the other right side of the window. So, time complexity O(wordLength * 2 * N/wordLength) = O(2N)    
+Time complexity O(n), Space complexity O(m)
