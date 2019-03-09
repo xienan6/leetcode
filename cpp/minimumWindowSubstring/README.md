@@ -1,0 +1,2 @@
+Sliding window. Slide the window to the right until all characters are included and then slide the window from the left until it does not contain all the characters. Repeat the above steps.  
+Time complexity O(n), Space complexity O(m)
