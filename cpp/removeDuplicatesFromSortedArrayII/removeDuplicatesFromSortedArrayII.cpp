@@ -12,22 +12,10 @@
 
 class Solution {
 public:
-    string minWindow(string s, string t) {
-        string res = "";
-        unordered_map<char, int> m;
-        for (int i = 0; i < t.length(); i++) m[t[i]]++;
-        int cnt = 0, left = 0, minLen = INT_MAX;
-        for (int i = 0; i < s.length(); i++) {
-            if (--m[s[i]] >= 0) cnt++;
-            while (cnt == t.length()) {
-                if (minLen > i - left + 1) {
-                    minLen = i - left + 1;
-                    res = s.substr(left, minLen);
-                }
-                if (++m[s[left]] > 0) cnt--;
-                left++;
-            }
-        }
-        return res;
+    int removeDuplicates(vector<int>& nums) {
+        int pos = 0;
+        for (int i = 0; i < nums.size(); i++) 
+            if (pos < 2 || nums[pos - 2] != nums[i]) nums[pos++] = nums[i];
+        return pos;
     }
 };
