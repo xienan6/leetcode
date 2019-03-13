@@ -88,6 +88,7 @@ LeetCode
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/removeDuplicatesFromSortedArrayII/removeDuplicatesFromSortedArrayII.cpp)|Medium|  
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/searchInRotatedSortedArrayII/searchInRotatedSortedArrayII.cpp)|Medium|  
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/removeDuplicatesFromSortedListII/removeDuplicatesFromSortedListII.cpp)|Medium|  
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.cpp)|Easy|  
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/mergeSortedArray/mergeSortedArray.cpp)|Easy|  
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/decodeWays/decodeWays.cpp)|Medium|  
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validateBinarySearchTree/validateBinarySearchTree.cpp)|Medium|  
