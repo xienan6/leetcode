@@ -90,6 +90,7 @@ LeetCode
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/removeDuplicatesFromSortedListII/removeDuplicatesFromSortedListII.cpp)|Medium|  
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/removeDuplicatesFromSortedList/removeDuplicatesFromSortedList.cpp)|Easy|  
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/largestRectangleInHistogram/largestRectangleInHistogram.cpp)|Hard|  
+|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximalRectangle/maximalRectangle.cpp)|Hard|  
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/mergeSortedArray/mergeSortedArray.cpp)|Easy|  
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/decodeWays/decodeWays.cpp)|Medium|  
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validateBinarySearchTree/validateBinarySearchTree.cpp)|Medium|  
