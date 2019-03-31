@@ -1,12 +1,14 @@
-// Source : https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+// Source : https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 // Author : Nan
-// Date   : 2019-03-30
-// Runtime: 16 ms
+// Date   : 2019-03-31
+// Runtime: 24 ms
 
 /*
-* Tree traversal.  
+* Recursion. The first one in preorder is root. 
+* Find index i in inorder. [0,i-1] is left tree 
+* and [i+1, :] is right tree.  
 *
-* Time complexity O(n), Space complexity O(logn)
+* Time complexity O(n!), Space complexity O(n)
 */
 
 /**
