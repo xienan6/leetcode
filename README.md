@@ -122,6 +122,8 @@ LeetCode
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/flattenBinaryTreeToLinkedList/flattenBinaryTreeToLinkedList.cpp)|Medium|  
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/distinctSubsequences/distinctSubsequences.cpp)|Hard|  
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/populatingNextRightPointersInEachNode/populatingNextRightPointersInEachNode.cpp)|Medium|  
+|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/populatingNextRightPointersInEachNodeII/populatingNextRightPointersInEachNodeII.cpp)|Medium|  
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/pascalTriangle/pascalTriangle.cpp)|Easy|  
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validPalindrome/validPalindrome.cpp)|Easy|  
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/wordLadder/wordLadder.cpp)|Medium|  
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sumRootToLeafNumbers/sumRootToLeafNumbers.cpp)|Medium|  
