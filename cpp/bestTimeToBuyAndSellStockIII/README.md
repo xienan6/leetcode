@@ -1,0 +1,2 @@
+We define local[i][j] as the maximum profit that can be made for a maximum of j transactions on the ith day and the last transaction on the last day, which is locally optimal. Then we define global[i][j] as the maximum profit that can be traded up to j times on the ith day, which is the global optimal.            
+Time complexity O(n), Space complexity O(1)
