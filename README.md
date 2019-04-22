@@ -131,6 +131,8 @@ LeetCode
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/bestTimeToBuyAndSellStockIII/bestTimeToBuyAndSellStockIII.cpp)|Hard|  
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/binaryTreeMaximumPathSum/binaryTreeMaximumPathSum.cpp)|Hard|  
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validPalindrome/validPalindrome.cpp)|Easy|  
+|126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/wordLadderII/wordLadderII.cpp)|Hard|  
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/wordLadder/wordLadder.cpp)|Medium|  
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/longestConsecutiveSequence/longestConsecutiveSequence.cpp)|Hard|  
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sumRootToLeafNumbers/sumRootToLeafNumbers.cpp)|Medium|  
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/palindromePartitioning/palindromePartitioning.cpp)|Medium|  
