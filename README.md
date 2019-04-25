@@ -137,4 +137,5 @@ LeetCode
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sumRootToLeafNumbers/sumRootToLeafNumbers.cpp)|Medium|  
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/surroundedRegions/surroundedRegions.cpp)|Medium|  
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/palindromePartitioning/palindromePartitioning.cpp)|Medium|  
-|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/palindromePartitioning/palindromePartitioning.cpp)|Medium|  
+|132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/palindromePartitioningII/palindromePartitioningII.cpp)|Hard|  
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/cloneGraph/cloneGraph.cpp)|Medium|  
