@@ -141,3 +141,4 @@ LeetCode
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/cloneGraph/cloneGraph.cpp)|Medium|  
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/gasStation/gasStation.cpp)|Medium|  
 |135|[Candy](https://leetcode.com/problems/candy/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/candy/candy.cpp)|Hard|  
+|136|[Single Number](https://leetcode.com/problems/single-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/singleNumber/singleNumber.cpp)|Easy|  
