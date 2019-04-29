@@ -1,2 +1,2 @@
-Step 1, if right child's value is greater than left child's value, then give him one more candy than left one. Step 2, if left child's value is greater than right child's value, then give him one more candy than right one.  
-Time complexity O(n), Space complexity O(n)
+Use XOR.  
+Time complexity O(n), Space complexity O(1)
