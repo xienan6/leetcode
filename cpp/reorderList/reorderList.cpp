@@ -1,14 +1,13 @@
-// Source : https://leetcode.com/problems/linked-list-cycle-ii/
+// Source : https://leetcode.com/problems/insertion-sort-list/
 // Author : Nan
-// Date   : 2019-05-06
-// Runtime: 12 ms
+// Date   : 2019-05-07
+// Runtime: 64 ms
 
 /*
-* Use a one-step slow pointer and a two-step fast pointer. 
-* Slow pointer walk at most n steps when linked list itself 
-* is a cycle. Notice the list has two same quantity.
+* Find the midpoint, cut the list and reverse the second 
+* list. Then insert elements at intervals.
 *
-* Time complexity O(n), Space complexity O(1)
+* Time complexity O(n), Space complexity O(n)
 */
 
 /**
@@ -21,20 +20,23 @@
  */
 class Solution {
 public:
-    ListNode *detectCycle(ListNode *head) {
-        ListNode *slow = head, *fast = head;
-        while (fast && fast->next) {
-            fast = fast->next->next;
-            slow = slow->next;
-            if (fast == slow) {
-                slow = head;
-                while (slow != fast) {
-                    slow = slow->next;
-                    fast = fast->next;
-                }
-                return slow;
-            }
+    void reorderList(ListNode* head) {
+        if (!head || !head->next || !head->next->next) return;
+        stack<ListNode*> st;
+        ListNode *cur = head;
+        while (cur) {
+            st.push(cur);
+            cur = cur->next;
         }
-        return NULL;
+        int cnt = ((int)st.size() - 1) / 2;
+        cur = head;
+        while (cnt-- > 0) {
+            auto t = st.top(); st.pop();
+            ListNode *next = cur->next;
+            cur->next = t;
+            t->next = next;
+            cur = next;
+        }
+        st.top()->next = NULL;
     }
 };
