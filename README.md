@@ -143,6 +143,7 @@ LeetCode
 |135|[Candy](https://leetcode.com/problems/candy/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/candy/candy.cpp)|Hard|  
 |136|[Single Number](https://leetcode.com/problems/single-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/singleNumber/singleNumber.cpp)|Easy|  
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/singleNumberII/singleNumberII.cpp)|Medium|  
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/copyListWithRandomPointer/copyListWithRandomPointer.cpp)|Medium|  
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/linkedListCycle/linkedListCycle.cpp)|Easy|  
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/linkedListCycleII/linkedListCycleII.cpp)|Medium|  
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reorderList/reorderList.cpp)|Medium|  
