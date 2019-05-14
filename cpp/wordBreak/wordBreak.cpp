@@ -1,50 +1,28 @@
-// Source : https://leetcode.com/problems/copy-list-with-random-pointer/
+// Source : https://leetcode.com/problems/word-break/
 // Author : Nan
-// Date   : 2019-05-12
-// Runtime: 32 ms
+// Date   : 2019-05-13
+// Runtime: 8 ms
 
 /*
-* Use a hashmap to map old node to new node.       
+* DP and dp[i] is if s[0:i) can be break. s[0:i) can be break if s[0:j) can be break and s[j:i) is a word in wordDict. 
 *
-* Time complexity O(n), Space complexity O(n)
+* Time complexity O(n^2), Space complexity O(n)
 */
 
-/*
-// Definition for a Node.
-class Node {
-public:
-    int val;
-    Node* next;
-    Node* random;
-
-    Node() {}
-
-    Node(int _val, Node* _next, Node* _random) {
-        val = _val;
-        next = _next;
-        random = _random;
-    }
-};
-*/
 class Solution {
 public:
-    Node* copyRandomList(Node* head) {
-        Node* dummy = new Node(-1, NULL, NULL), *last = dummy, *p = NULL, *cur = head;
-        unordered_map<Node*, Node*> m;
-        while (cur) {
-            p = new Node(cur->val, NULL, NULL);
-            last->next = p;
-            last = p;
-            m[cur] = p;
-            cur = cur->next;
+    bool wordBreak(string s, vector<string>& wordDict) {
+        unordered_set<string> dict(wordDict.begin(), wordDict.end());
+        vector<bool> dp(s.size() + 1, false);
+        dp[0] = true;
+        for (int i = 0; i < dp.size(); ++i) {
+            for (int j = 0; j < i; ++j) {
+                if (dp[j] && dict.count(s.substr(j, i - j))) {
+                    dp[i] = true;
+                    break;
+                }
+            }
         }
-        cur = head;
-        p = dummy->next;
-        while (cur) {
-            p->random = m[cur->random];
-            p = p->next;
-            cur = cur->next;
-        }
-        return dummy->next;
+        return dp.back();
     }
 };
