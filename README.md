@@ -160,4 +160,5 @@ LeetCode
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumProductSubarray/maximumProductSubarray.cpp)|Medium|  
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.cpp)|Medium|  
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/findMinimumInRotatedSortedArrayII/findMinimumInRotatedSortedArrayII.cpp)|Hard|  
-|155|[Min Stack](https://leetcode.com/problems/min-stack/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/minStack/minStack.cpp)|Easy| 
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/minStack/minStack.cpp)|Easy|  
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/intersectionOfTwoLinkedLists/intersectionOfTwoLinkedLists.cpp)|Easy| 
