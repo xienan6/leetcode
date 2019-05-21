@@ -161,4 +161,5 @@ LeetCode
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.cpp)|Medium|  
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/findMinimumInRotatedSortedArrayII/findMinimumInRotatedSortedArrayII.cpp)|Hard|  
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/minStack/minStack.cpp)|Easy|  
-|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/intersectionOfTwoLinkedLists/intersectionOfTwoLinkedLists.cpp)|Easy| 
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/intersectionOfTwoLinkedLists/intersectionOfTwoLinkedLists.cpp)|Easy|  
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/findPeakElement/findPeakElement.cpp)|Medium|  
