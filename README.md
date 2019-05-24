@@ -165,3 +165,4 @@ LeetCode
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/findPeakElement/findPeakElement.cpp)|Medium|  
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumGap/maximumGap.cpp)|Hard|  
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/compareVersionNumbers/compareVersionNumbers.cpp)|Medium|  
+|166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/fractionToRecurringDecimal/fractionToRecurringDecimal.cpp)|Medium|  
