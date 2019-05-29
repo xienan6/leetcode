@@ -170,3 +170,4 @@ LeetCode
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/excelSheetColumnTitle/excelSheetColumnTitle.cpp)|Easy|  
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/majorityElement/majorityElement.cpp)|Easy|  
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/excelSheetColumnNumber/excelSheetColumnNumber.cpp)|Easy|  
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/factorialTrailingZeroes/factorialTrailingZeroes.cpp)|Easy|  
