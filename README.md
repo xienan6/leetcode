@@ -171,3 +171,4 @@ LeetCode
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/majorityElement/majorityElement.cpp)|Easy|  
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/excelSheetColumnNumber/excelSheetColumnNumber.cpp)|Easy|  
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/factorialTrailingZeroes/factorialTrailingZeroes.cpp)|Easy|  
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/binarySearchTreeIterator/binarySearchTreeIterator.cpp)|Medium|  
