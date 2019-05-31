@@ -172,3 +172,4 @@ LeetCode
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/excelSheetColumnNumber/excelSheetColumnNumber.cpp)|Easy|  
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/factorialTrailingZeroes/factorialTrailingZeroes.cpp)|Easy|  
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/binarySearchTreeIterator/binarySearchTreeIterator.cpp)|Medium|  
+|174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/dungeonGame/dungeonGame.cpp)|Hard|  
