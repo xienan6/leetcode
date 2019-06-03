@@ -173,3 +173,7 @@ LeetCode
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/factorialTrailingZeroes/factorialTrailingZeroes.cpp)|Easy|  
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/binarySearchTreeIterator/binarySearchTreeIterator.cpp)|Medium|  
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/dungeonGame/dungeonGame.cpp)|Hard|  
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/combineTwoTables/combineTwoTables.cpp)|Easy|  
+|179|[largestNumber](https://leetcode.com/problems/largest-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/largestNumber/largestNumber.cpp)|Medium|  
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/repeatedDNASequences/repeatedDNASequences.cpp)|Medium|  
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/rotateArray/rotateArray.cpp)|Easy|  
