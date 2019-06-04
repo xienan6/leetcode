@@ -177,3 +177,4 @@ LeetCode
 |179|[largestNumber](https://leetcode.com/problems/largest-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/largestNumber/largestNumber.cpp)|Medium|  
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/repeatedDNASequences/repeatedDNASequences.cpp)|Medium|  
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/rotateArray/rotateArray.cpp)|Easy|  
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseBits/reverseBits.cpp)|Easy|  
