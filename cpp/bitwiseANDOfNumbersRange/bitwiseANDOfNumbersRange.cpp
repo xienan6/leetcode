@@ -4,7 +4,7 @@
 // Runtime: 16 ms
 
 /*
-* Longest common prefix 1.
+* Longest common prefix.
 *
 * Time complexity O(n), Space complexity O(1)
 */

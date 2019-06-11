@@ -183,3 +183,4 @@ LeetCode
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/binaryTreeRightSideView/binaryTreeRightSideView.cpp)|Medium|  
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/numberOfIslands/numberOfIslands.cpp)|Medium|  
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/bitwiseANDOfNumbersRange/bitwiseANDOfNumbersRange.cpp)|Medium|  
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/happyNumber/happyNumber.cpp)|Easy|  
