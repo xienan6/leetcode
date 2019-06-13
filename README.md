@@ -185,3 +185,4 @@ LeetCode
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/bitwiseANDOfNumbersRange/bitwiseANDOfNumbersRange.cpp)|Medium|  
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/happyNumber/happyNumber.cpp)|Easy|  
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/removeLinkedListElements/removeLinkedListElements.cpp)|Easy|  
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/countPrimes/countPrimes.cpp)|Easy|  
