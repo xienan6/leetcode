@@ -188,3 +188,4 @@ LeetCode
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/countPrimes/countPrimes.cpp)|Easy|  
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/isomorphicStrings/isomorphicStrings.cpp)|Easy|  
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseLinkedList/reverseLinkedList.cpp)|Easy|  
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/courseSchedule/courseSchedule.cpp)|Medium|  

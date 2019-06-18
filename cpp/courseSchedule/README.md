@@ -1,0 +1,2 @@
+BFS. Find the point where the indegree is 0. Push the point where the indegree is 0 into queue. Check whether there is a point where the indegree is not 0.   
+Time complexity O(n^2), Space complexity O(n^2)
