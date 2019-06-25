@@ -193,3 +193,5 @@ LeetCode
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/minimumSizeSubarraySum/minimumSizeSubarraySum.cpp)|Medium|  
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/courseScheduleII/courseScheduleII.cpp)|Medium|  
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/addAndSearchWord/addAndSearchWord.cpp)|Medium|  
+|212|[Word Search II](https://leetcode.com/problems/word-search-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/wordSearchII/wordSearchII.cpp)|Hard|  
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/houseRobberII/houseRobberII.cpp)|Medium|  
