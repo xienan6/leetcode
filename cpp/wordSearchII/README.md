@@ -1,2 +1,2 @@
-Trie.  
-Time complexity O(n), Space complexity O(n)
+Trie + DFS.  
+Time complexity O(mn), Space complexity O(mn)
