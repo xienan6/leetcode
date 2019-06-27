@@ -195,4 +195,5 @@ LeetCode
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/addAndSearchWord/addAndSearchWord.cpp)|Medium|  
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/wordSearchII/wordSearchII.cpp)|Hard|  
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/houseRobberII/houseRobberII.cpp)|Medium|  
-|214|[Shortest Palindrome](https://leetcode.com/problems/house-robber-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/shortestPalindrome/shortestPalindrome.cpp)|Hard|  
+|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/shortestPalindrome/shortestPalindrome.cpp)|Hard|  
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/kthLargestElementInAnArray/kthLargestElementInAnArray.cpp)|Medium|  
