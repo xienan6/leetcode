@@ -204,3 +204,4 @@ LeetCode
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/containsDuplicateII/containsDuplicateII.cpp)|Easy|  
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/containsDuplicateIII/containsDuplicateIII.cpp)|Medium|  
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximalSquare/maximalSquare.cpp)|Medium|  
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/countCompleteTreeNodes/countCompleteTreeNodes.cpp)|Medium|  
