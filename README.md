@@ -206,3 +206,4 @@ LeetCode
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximalSquare/maximalSquare.cpp)|Medium|  
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/countCompleteTreeNodes/countCompleteTreeNodes.cpp)|Medium|  
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/rectangleArea/rectangleArea.cpp)|Medium|  
+|224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/basicCalculator/basicCalculator.cpp)|Hard|  
