@@ -208,3 +208,4 @@ LeetCode
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/rectangleArea/rectangleArea.cpp)|Medium|  
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/basicCalculator/basicCalculator.cpp)|Hard|  
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/implementStackUsingQueues/implementStackUsingQueues.cpp)|Easy|  
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/invertBinaryTree/invertBinaryTree.cpp)|Easy|  
