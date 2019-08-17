@@ -1,0 +1,2 @@
+There at most are 2 numbers appear more than n / 3 times. Most people vote for two numbers and finally check if the two numbers appear more than n / 3 times.    
+Time complexity O(n), Space complexity O(1)
