@@ -214,3 +214,4 @@ LeetCode
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/majorityElementII/majorityElementII.cpp)|Medium|  
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/kthSmallestElementInABST/kthSmallestElementInABST.cpp)|Medium|  
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/powerOfTwo/powerOfTwo.cpp)|Easy|  
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/implementQueueUsingStacks/implementQueueUsingStacks.cpp)|Easy|  
