@@ -218,3 +218,4 @@ LeetCode
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/numberOfDigitOne/numberOfDigitOne.cpp)|Hard|  
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/palindromeLinkedList/palindromeLinkedList.cpp)|Easy|  
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/lowestCommonAncestorOfABinarySearchTree/lowestCommonAncestorOfABinarySearchTree.cpp)|Easy|  
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/lowestCommonAncestorOfABinaryTree/lowestCommonAncestorOfABinaryTree.cpp)|Medium|  
