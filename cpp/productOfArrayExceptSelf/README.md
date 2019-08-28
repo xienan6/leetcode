@@ -1,0 +1,2 @@
+The cumulative product on the left of a number multiplied by the cumulative product to the right of this number is product of array except self. We can use result array to save space.  
+Time complexity O(n), Space complexity O(1)
