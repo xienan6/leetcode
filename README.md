@@ -224,3 +224,4 @@ LeetCode
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/slidingWindowMaximum/slidingWindowMaximum.cpp)|Hard|  
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/searchA2DMatrixII/searchA2DMatrixII.cpp)|Medium|  
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/differentWaysToAddParentheses/differentWaysToAddParentheses.cpp)|Medium|  
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validAnagram/validAnagram.cpp)|Easy|  
