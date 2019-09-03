@@ -226,3 +226,4 @@ LeetCode
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/differentWaysToAddParentheses/differentWaysToAddParentheses.cpp)|Medium|  
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/validAnagram/validAnagram.cpp)|Easy|  
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/binaryTreePaths/binaryTreePaths.cpp)|Easy|  
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/addDigits/addDigits.cpp)|Easy|  
