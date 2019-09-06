@@ -229,3 +229,4 @@ LeetCode
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/addDigits/addDigits.cpp)|Easy|  
 |260|[Single Number III](https://leetcode.com/problems/add-digits/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/singleNumberIII/singleNumberIII.cpp)|Medium|  
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/uglyNumber/uglyNumber.cpp)|Easy|  
+|264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/uglyNumberII/uglyNumberII.cpp)|Medium|  
