@@ -232,3 +232,4 @@ LeetCode
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/uglyNumberII/uglyNumberII.cpp)|Medium|  
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/missingNumber/missingNumber.cpp)|Easy|  
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/integerToEnglishWords/integerToEnglishWords.cpp)|Hard|  
+|274|[H-Index](https://leetcode.com/problems/h-index/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/H-Index/H-Index.cpp)|Medium|  
