@@ -234,3 +234,4 @@ LeetCode
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/integerToEnglishWords/integerToEnglishWords.cpp)|Hard|  
 |274|[H-Index](https://leetcode.com/problems/h-index/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/H-Index/H-Index.cpp)|Medium|  
 |275|[H-Index](https://leetcode.com/problems/h-index-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/H-IndexII/H-IndexII.cpp)|Medium|  
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/firstBadVersion/firstBadVersion.cpp)|Easy|  
