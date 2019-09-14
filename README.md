@@ -236,3 +236,4 @@ LeetCode
 |275|[H-Index](https://leetcode.com/problems/h-index-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/H-IndexII/H-IndexII.cpp)|Medium|  
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/firstBadVersion/firstBadVersion.cpp)|Easy|  
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/expressionAddOperators/expressionAddOperators.cpp)|Hard|  
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/moveZeroes/moveZeroes.cpp)|Easy|  
