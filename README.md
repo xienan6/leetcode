@@ -237,3 +237,5 @@ LeetCode
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/firstBadVersion/firstBadVersion.cpp)|Easy|  
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/expressionAddOperators/expressionAddOperators.cpp)|Hard|  
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/moveZeroes/moveZeroes.cpp)|Easy|  
+|1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumNumberOfBalloons/maximumNumberOfBalloons.cpp)|Easy|  
+|1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseSubstringsBetweenEachPairOfParentheses/reverseSubstringsBetweenEachPairOfParentheses.cpp)|Medium|  
