@@ -242,5 +242,6 @@ LeetCode
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/wordPattern/wordPattern.cpp)|Easy|  
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/serializeAndDeserializeBinaryTree/serializeAndDeserializeBinaryTree.cpp)|Hard|  
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/bullsAndCows/bullsAndCows.cpp)|Easy|  
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/longestIncreasingSubsequence/longestIncreasingSubsequence.cpp)|Medium|  
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumNumberOfBalloons/maximumNumberOfBalloons.cpp)|Easy|  
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseSubstringsBetweenEachPairOfParentheses/reverseSubstringsBetweenEachPairOfParentheses.cpp)|Medium|  
