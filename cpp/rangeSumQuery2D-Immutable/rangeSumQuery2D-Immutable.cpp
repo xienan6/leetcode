@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/range-sum-query-2d-immutable
 // Author : Nan
-// Date   : 2019-09-26
+// Date   : 2019-09-25
 // Runtime: 24 ms
 
 /*
