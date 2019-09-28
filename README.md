@@ -247,5 +247,6 @@ LeetCode
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/rangeSumQuery-Immutable/rangeSumQuery-Immutable.cpp)|Easy|  
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/rangeSumQuery2D-Immutable/rangeSumQuery2D-Immutable.cpp)|Medium|  
 |306|[Additive Number](https://leetcode.com/problems/additive-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/additiveNumber/additiveNumber.cpp)|Medium|  
+|307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/rangeSumQuery-Mutable/rangeSumQuery-Mutable.cpp)|Medium|  
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumNumberOfBalloons/maximumNumberOfBalloons.cpp)|Easy|  
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseSubstringsBetweenEachPairOfParentheses/reverseSubstringsBetweenEachPairOfParentheses.cpp)|Medium|  
