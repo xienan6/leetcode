@@ -1,2 +1,2 @@
-BFS.  
-Time complexity O(2^n), Space complexity O(2^n)
+Segment Tree.  
+Time complexity O(logn), Space complexity O(n)
