@@ -251,5 +251,6 @@ LeetCode
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/bestTimeToBuyAndSellStockWithCooldown/bestTimeToBuyAndSellStockWithCooldown.cpp)|Medium|  
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/minimumHeightTrees/minimumHeightTrees.cpp)|Medium|  
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/burstBalloons/burstBalloons.cpp)|Hard|  
+|313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/superUglyNumber/superUglyNumber.cpp)|Medium|  
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumNumberOfBalloons/maximumNumberOfBalloons.cpp)|Easy|  
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseSubstringsBetweenEachPairOfParentheses/reverseSubstringsBetweenEachPairOfParentheses.cpp)|Medium|  
