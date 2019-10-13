@@ -253,5 +253,7 @@ LeetCode
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/burstBalloons/burstBalloons.cpp)|Hard|  
 |313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/superUglyNumber/superUglyNumber.cpp)|Medium|  
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/countOfSmallerNumbersAfterSelf/countOfSmallerNumbersAfterSelf.cpp)|Hard|  
+|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/removeDuplicateLetters/removeDuplicateLetters.cpp)|Hard|  
+|318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumProductOfWordLengths/maximumProductOfWordLengths.cpp)|Medium|  
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumNumberOfBalloons/maximumNumberOfBalloons.cpp)|Easy|  
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseSubstringsBetweenEachPairOfParentheses/reverseSubstringsBetweenEachPairOfParentheses.cpp)|Medium|  
