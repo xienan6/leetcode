@@ -259,6 +259,7 @@ LeetCode
 |321|[Create Maximum Number](https://leetcode.com/problems/create-maximum-number)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/createMaximumNumber/createMaximumNumber.cpp)|Hard|  
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/coinChange/coinChange.cpp)|Medium|  
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/wiggleSortII/wiggleSortII.cpp)|Medium|  
+|327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/countOfRangeSum/countOfRangeSum.cpp)|Hard|  
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumNumberOfBalloons/maximumNumberOfBalloons.cpp)|Easy|  
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseSubstringsBetweenEachPairOfParentheses/reverseSubstringsBetweenEachPairOfParentheses.cpp)|Medium|  
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/splitAStringInBalancedStrings/splitAStringInBalancedStrings.cpp)|Easy|  
