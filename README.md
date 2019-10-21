@@ -262,6 +262,7 @@ LeetCode
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/countOfRangeSum/countOfRangeSum.cpp)|Hard|  
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/oddEvenLinkedList/oddEvenLinkedList.cpp)|Medium|  
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/longestIncreasingPathInAMatrix/longestIncreasingPathInAMatrix.cpp)|Hard|  
+|330|[Patching Array](https://leetcode.com/problems/patching-array/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/patchingArray/patchingArray.cpp)|Hard|  
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumNumberOfBalloons/maximumNumberOfBalloons.cpp)|Easy|  
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseSubstringsBetweenEachPairOfParentheses/reverseSubstringsBetweenEachPairOfParentheses.cpp)|Medium|  
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/splitAStringInBalancedStrings/splitAStringInBalancedStrings.cpp)|Easy|  
