@@ -1,23 +1,23 @@
 3 situations.  
-     x(1)  
-    ┌───┐  
+&ensp;&ensp;&ensp;&ensp;&ensp;x(1)  
+&ensp;&ensp;&ensp;&ensp;┌───┐  
 x(2)│   │x(0)  
-    └───┼──>  
-    x(3)│  
+&ensp;&ensp;&ensp;&ensp;└───┼──>  
+&ensp;&ensp;&ensp;&ensp;x(3)│  
     
-      x(1)  
-    ┌──────┐  
-    │      │x(0)  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;x(1)  
+&ensp;&ensp;&ensp;&ensp;┌──────┐  
+&ensp;&ensp;&ensp;&ensp;│      │x(0)  
 x(2)│      ^  
-    │      │x(4)  
-    └──────│  
-      x(3)  
+&ensp;&ensp;&ensp;&ensp;│      │x(4)  
+&ensp;&ensp;&ensp;&ensp;└──────│  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;x(3)  
     
-       x(1)  
-    ┌──────┐  
-    │      │x(0)  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;x(1)  
+&ensp;&ensp;&ensp;&ensp;┌──────┐  
+&ensp;&ensp;&ensp;&ensp;│      │x(0)  
 x(2)│     <│────│  
-    │       x(5)│x(4)  
-    └───────────│  
-        x(3)  	   
+&ensp;&ensp;&ensp;&ensp;│       x(5)│x(4)  
+&ensp;&ensp;&ensp;&ensp;└───────────│  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;x(3)  	   
 Time complexity O(n), Space complexity O(1)
