@@ -271,6 +271,7 @@ LeetCode
 |343|[Integer Break](https://leetcode.com/problems/integer-break/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/integerBreak/integerBreak.cpp)|Medium|  
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseString/reverseString.cpp)|Easy|  
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseVowelsOfAString/reverseVowelsOfAString.cpp)|Easy|  
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/topKFrequentElements/topKFrequentElements.cpp)|Medium|  
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumNumberOfBalloons/maximumNumberOfBalloons.cpp)|Easy|  
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseSubstringsBetweenEachPairOfParentheses/reverseSubstringsBetweenEachPairOfParentheses.cpp)|Medium|  
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/splitAStringInBalancedStrings/splitAStringInBalancedStrings.cpp)|Easy|  
