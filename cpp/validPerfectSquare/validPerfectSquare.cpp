@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/valid-perfect-square/
 // Author : Nan
-// Date   : 2019-11-09
+// Date   : 2019-11-10
 // Runtime: 4 ms
 
 /*

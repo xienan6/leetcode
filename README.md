@@ -267,6 +267,7 @@ LeetCode
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reconstructItinerary/reconstructItinerary.cpp)|Medium|  
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/increasingTripletSubsequence/increasingTripletSubsequence.cpp)|Medium|  
 |335|[Self Crossing](https://leetcode.com/problems/self-crossing/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/selfCrossing/selfCrossing.cpp)|Hard|  
+|336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/palindromePairs/palindromePairs.cpp)|Hard|  
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/powerOfFour/powerOfFour.cpp)|Easy|  
 |343|[Integer Break](https://leetcode.com/problems/integer-break/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/integerBreak/integerBreak.cpp)|Medium|  
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseString/reverseString.cpp)|Easy|  
