@@ -269,6 +269,7 @@ LeetCode
 |335|[Self Crossing](https://leetcode.com/problems/self-crossing/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/selfCrossing/selfCrossing.cpp)|Hard|  
 |336|[Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/palindromePairs/palindromePairs.cpp)|Hard|  
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/houseRobberIII/houseRobberIII.cpp)|Medium|  
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/countingBits/countingBits.cpp)|Medium|  
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/powerOfFour/powerOfFour.cpp)|Easy|  
 |343|[Integer Break](https://leetcode.com/problems/integer-break/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/integerBreak/integerBreak.cpp)|Medium|  
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseString/reverseString.cpp)|Easy|  
