@@ -288,6 +288,7 @@ LeetCode
 |368|[Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/largestDivisibleSubset/largestDivisibleSubset.cpp)|Medium|  
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sumOfTwoIntegers/sumOfTwoIntegers.cpp)|Easy|  
 |372|[Super Pow](https://leetcode.com/problems/super-pow/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/superPow/superPow.cpp)|Medium|  
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/guessNumberHigherOrLower/guessNumberHigherOrLower.cpp)|Easy|  
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumNumberOfBalloons/maximumNumberOfBalloons.cpp)|Easy|  
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseSubstringsBetweenEachPairOfParentheses/reverseSubstringsBetweenEachPairOfParentheses.cpp)|Medium|  
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/splitAStringInBalancedStrings/splitAStringInBalancedStrings.cpp)|Easy|  
