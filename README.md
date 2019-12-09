@@ -296,6 +296,8 @@ LeetCode
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/linkedListRandomNode/linkedListRandomNode.cpp)|Medium|  
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/ransomNote/ransomNote.cpp)|Easy|  
 |384|[Shuffle an Array](https://leetcode.com/problems/ransom-note/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/shuffleAnArray/shuffleAnArray.cpp)|Medium|  
+|385|[Mini Parser](https://leetcode.com/problems/mini-parser/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/miniParser/miniParser.cpp)|Medium|  
+|386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/lexicographicalNumbers/lexicographicalNumbers.cpp)|Medium|  
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumNumberOfBalloons/maximumNumberOfBalloons.cpp)|Medium|  
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseSubstringsBetweenEachPairOfParentheses/reverseSubstringsBetweenEachPairOfParentheses.cpp)|Medium|  
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/splitAStringInBalancedStrings/splitAStringInBalancedStrings.cpp)|Easy|  
