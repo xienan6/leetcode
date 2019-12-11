@@ -1,6 +1,6 @@
 // Source : https://leetcode.com/problems/first-unique-character-in-a-string
 // Author : Nan
-// Date   : 2019-12-09
+// Date   : 2019-12-10
 // Runtime: 32 ms
 
 /*
