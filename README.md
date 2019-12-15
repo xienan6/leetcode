@@ -302,6 +302,7 @@ LeetCode
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/longestAbsoluteFilePath/longestAbsoluteFilePath.cpp)|Medium|  
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/findTheDifference/findTheDifference.cpp)|Easy|  
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/eliminationGame/eliminationGame.cpp)|Medium|  
+|391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/perfectRectangle/perfectRectangle.cpp)|Hard|  
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumNumberOfBalloons/maximumNumberOfBalloons.cpp)|Medium|  
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseSubstringsBetweenEachPairOfParentheses/reverseSubstringsBetweenEachPairOfParentheses.cpp)|Medium|  
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/splitAStringInBalancedStrings/splitAStringInBalancedStrings.cpp)|Easy|  
