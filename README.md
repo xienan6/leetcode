@@ -304,6 +304,7 @@ LeetCode
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/eliminationGame/eliminationGame.cpp)|Medium|  
 |391|[Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/perfectRectangle/perfectRectangle.cpp)|Hard|  
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/isSubsequence/isSubsequence.cpp)|Easy|  
+|393|[UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/UTF-8Validation/UTF-8Validation.cpp)|Medium|  
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumNumberOfBalloons/maximumNumberOfBalloons.cpp)|Medium|  
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseSubstringsBetweenEachPairOfParentheses/reverseSubstringsBetweenEachPairOfParentheses.cpp)|Medium|  
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/splitAStringInBalancedStrings/splitAStringInBalancedStrings.cpp)|Easy|  
