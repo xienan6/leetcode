@@ -310,6 +310,7 @@ LeetCode
 |396|[Rotate Function](https://leetcode.com/problems/rotate-function/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/rotateFunction/rotateFunction.cpp)|Medium|  
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/integerReplacement/integerReplacement.cpp)|Medium|  
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/randomPickIndex/randomPickIndex.cpp)|Medium|  
+|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/evaluateDivision/evaluateDivision.cpp)|Medium|  
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumNumberOfBalloons/maximumNumberOfBalloons.cpp)|Medium|  
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseSubstringsBetweenEachPairOfParentheses/reverseSubstringsBetweenEachPairOfParentheses.cpp)|Medium|  
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/splitAStringInBalancedStrings/splitAStringInBalancedStrings.cpp)|Easy|  
