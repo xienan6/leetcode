@@ -316,6 +316,7 @@ LeetCode
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/removeKDigits/removeKDigits.cpp)|Medium|  
 |403|[Frog Jump](https://leetcode.com/problems/frog-jump/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/frogJump/frogJump.cpp)|Hard|  
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/sumOfLeftLeaves/sumOfLeftLeaves.cpp)|Easy|  
+|405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/convertANumberToHexadecimal/convertANumberToHexadecimal.cpp)|Easy|  
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumNumberOfBalloons/maximumNumberOfBalloons.cpp)|Medium|  
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseSubstringsBetweenEachPairOfParentheses/reverseSubstringsBetweenEachPairOfParentheses.cpp)|Medium|  
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/splitAStringInBalancedStrings/splitAStringInBalancedStrings.cpp)|Easy|  
