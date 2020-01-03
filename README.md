@@ -321,6 +321,7 @@ LeetCode
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/longestPalindrome/longestPalindrome.cpp)|Easy|  
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/splitArrayLargestSum/splitArrayLargestSum.cpp)|Hard|  
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/fizzBuzz/fizzBuzz.cpp)|Easy|  
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/arithmeticSlices/arithmeticSlices.cpp)|Medium|  
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/maximumNumberOfBalloons/maximumNumberOfBalloons.cpp)|Medium|  
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/reverseSubstringsBetweenEachPairOfParentheses/reverseSubstringsBetweenEachPairOfParentheses.cpp)|Medium|  
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)| [C++](https://github.com/xienan6/leetcode/tree/master/cpp/splitAStringInBalancedStrings/splitAStringInBalancedStrings.cpp)|Easy|  
